@@ -1,1 +1,1 @@
-0x00-python-hello_world
+firt task of learning python
